@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES ON course.* TO 'test_admin'@'%';
